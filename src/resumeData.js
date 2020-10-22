@@ -29,35 +29,31 @@ const resumeData = {
       {
         "UniversityName":"University of Pennsylvania LPS Coding Boot Camp",
         "specialization":"Full Stack Web Development",
-        "MonthOfPassing":"Oct",
+        "MonthOfPassing":"Expected graduation October",
         "YearOfPassing":"2020",
         "Achievements":"MERN (MongoDB, Express, React, Node)"
       },
       {
         "UniversityName":"Philadelphia University",
         "specialization":"Digital Design",
-        "MonthOfPassing":"Apr",
-        "YearOfPassing":"2008",
+        "MonthOfPassing":"April 2008",
+        "YearOfPassing":"to May 2009",
         "Achievements":"Degree not acquired"
       }
     ],
     "work":[
       {
-        "CompanyName":"Some Company",
-        "specialization":"Some specialization",
-        "MonthOfLeaving":"Jan",
-        "YearOfLeaving":"2018",
-        "Achievements":"Some Achievements"
+        "CompanyName":"Event Management and promotion",
+        "specialization":"Creation, curation, and collaboration with businesses and brands to create interesting and original events from the ground up.",
+        "Achievements":"March 2012 to Current"
       },
       {
-        "CompanyName":"Some Company",
-        "specialization":"Some specialization",
-        "MonthOfLeaving":"Jan",
-        "YearOfLeaving":"2018",
-        "Achievements":"Some Achievements"
+        "CompanyName":"Retail and Brand Management",
+        "specialization":"Trend forecasting and analytics for product purchasing and merchandising to local markets. Team management and recruiting. Organization of daily workflows to quarterly plans.",
+        "Achievements":"August 2006 to March 2016"
       }
     ],
-    "skillsDescription":"Your skills here",
+    "skillsDescription":"Some skills of mine",
     "skills":[
       {
         "skillname":"Javascript"
