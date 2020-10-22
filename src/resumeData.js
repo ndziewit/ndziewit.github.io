@@ -73,35 +73,38 @@ const resumeData = {
       {
         "name":"GameSwap",
         "description":"mobileapp",
-        "imgurl":"ihttps://user-images.githubusercontent.com/64652517/92532842-37012d80-f1ff-11ea-9092-e2e513f6edc3.png",
+        "imgurl":"https://user-images.githubusercontent.com/64652517/92532842-37012d80-f1ff-11ea-9092-e2e513f6edc3.png",
         "url":"https://project2-rmdm.herokuapp.com/",
-        "className": "fa"
       },
       {
-        "name":"project2",
-        "description":"mobileapp",
+        "name":"Restaurant finder",
+        "description":"Locate bars and restaurants around you and save them for later",
         "imgurl":"https://github.com/ndziewit/i-cant-decide/raw/master/css2/Read-me-img.png",
         "url":"https://grburner.github.io/sonics-project-1-/"
       },
       {
-        "name":"Fitness Tracker",
-        "description":"mobileapp",  
-        "imgurl":"https://user-images.githubusercontent.com/64652517/95266508-4c1eab80-0801-11eb-8c77-f1d794def11b.png"
+        "name":"Day Planner",
+        "description":"Workday scheduler",  
+        "imgurl":"https://user-images.githubusercontent.com/64652517/95266508-4c1eab80-0801-11eb-8c77-f1d794def11b.png",
+        "url":"https://ndziewit.github.io/day-planner/"
       },
       {
         "name":"Banana Quiz",
-        "description":"mobileapp",
-        "imgurl":"https://user-images.githubusercontent.com/64652517/87865768-fd225200-c946-11ea-93ce-a5c3c51f7342.png"
+        "description":"A quiz about bananas",
+        "imgurl":"https://user-images.githubusercontent.com/64652517/87865768-fd225200-c946-11ea-93ce-a5c3c51f7342.png",
+        "url":"https://ndziewit.github.io/quiz/"
       },
       {
         "name":"WeatherApp",
-        "description":"mobileapp",
-        "imgurl":"https://user-images.githubusercontent.com/64652517/86428682-5b023900-bcbb-11ea-9c67-2a9c4eed3a00.png"
+        "description":"Find the weather in any area of the world",
+        "imgurl":"https://user-images.githubusercontent.com/64652517/86428682-5b023900-bcbb-11ea-9c67-2a9c4eed3a00.png",
+        "url":"https://ndziewit.github.io/weatherapp/"
       },
         {
         "name":"Password Generator",
-        "description":"mobileapp",
-        "imgurl":"https://user-images.githubusercontent.com/64652517/87865783-20e59800-c947-11ea-9686-6a4a0b8a1035.png"
+        "description":"Random password generating app",
+        "imgurl":"https://user-images.githubusercontent.com/64652517/87865783-20e59800-c947-11ea-9686-6a4a0b8a1035.png",
+        "url":"https://ndziewit.github.io/passwordgenerator/"
       },
     ],
   }
