@@ -1,4 +1,4 @@
-let resumeData = {
+const resumeData = {
     "imagebaseurl":"https://rbhatia46.github.io/",
     "name": "Nicholas Dziewit",
     "role": "Full Stack MERN Web Developer",
@@ -71,36 +71,39 @@ let resumeData = {
     ],
     "portfolio":[
       {
-        "name":"project1",
+        "name":"GameSwap",
         "description":"mobileapp",
-        "imgurl":"images/portfolio/phone.jpg"
+        "imgurl":"ihttps://user-images.githubusercontent.com/64652517/92532842-37012d80-f1ff-11ea-9092-e2e513f6edc3.png",
+        "url":"https://project2-rmdm.herokuapp.com/",
+        "className": "fa"
       },
       {
         "name":"project2",
         "description":"mobileapp",
-        "imgurl":"images/portfolio/project.jpg"
+        "imgurl":"https://github.com/ndziewit/i-cant-decide/raw/master/css2/Read-me-img.png",
+        "url":"https://grburner.github.io/sonics-project-1-/"
       },
       {
-        "name":"project3",
+        "name":"Fitness Tracker",
         "description":"mobileapp",  
-        "imgurl":"images/portfolio/project2.png"
+        "imgurl":"https://user-images.githubusercontent.com/64652517/95266508-4c1eab80-0801-11eb-8c77-f1d794def11b.png"
       },
       {
-        "name":"project4",
+        "name":"Banana Quiz",
         "description":"mobileapp",
-        "imgurl":"images/portfolio/phone.jpg"
-      }
-    ],
-    "testimonials":[
-      {
-        "description":"This is a sample testimonial",
-        "name":"Some technical guy"
+        "imgurl":"https://user-images.githubusercontent.com/64652517/87865768-fd225200-c946-11ea-93ce-a5c3c51f7342.png"
       },
       {
-        "description":"This is a sample testimonial",
-        "name":"Some technical guy"
-      }
-    ]
+        "name":"WeatherApp",
+        "description":"mobileapp",
+        "imgurl":"https://user-images.githubusercontent.com/64652517/86428682-5b023900-bcbb-11ea-9c67-2a9c4eed3a00.png"
+      },
+        {
+        "name":"Password Generator",
+        "description":"mobileapp",
+        "imgurl":"https://user-images.githubusercontent.com/64652517/87865783-20e59800-c947-11ea-9686-6a4a0b8a1035.png"
+      },
+    ],
   }
   
   export default resumeData
