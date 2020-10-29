@@ -1,10 +1,5 @@
-## Preview
-![Preview](https://image.ibb.co/e5uBf0/Capture.png)
+## React Portfolio
+Web design portfolio running on ReactJS. Original template borrowed from https://github.com/rbhatia46/React-Portfolio
 
-## How to use
-1. Clone/Download the repo.
-2. Run  ``` npm install ```.
-3. Change the values in ```src/resumeData.js``` to suit your use-case.
-4. Run ```npm start``` to spin the up the local dev server port 3000.(http://localhost:3000).
-5. Make required changes in ```src/resumeData.js``` to suit your needs.
-
+## Screenshot
+<img width="1134" alt="Screen Shot 2020-10-28 at 9 13 14 PM" src="https://user-images.githubusercontent.com/64652517/97513378-74ae4700-1962-11eb-9b6b-640b0899f151.png">
