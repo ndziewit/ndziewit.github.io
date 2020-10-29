@@ -1,5 +1,5 @@
 const resumeData = {
-    "imagebaseurl":"https://rbhatia46.github.io/",
+    "imagebaseurl":"https://ndziewit.github.io/",
     "name": "Nicholas Dziewit",
     "role": "Full Stack MERN Web Developer",
     "linkedinId": "nicholas.dziewit@gmail.com",
