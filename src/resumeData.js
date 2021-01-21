@@ -4,7 +4,7 @@ const resumeData = {
     "role": "Full Stack MERN Web Developer",
     "linkedinId": "nicholas.dziewit@gmail.com",
     "skypeid": "Your skypeid",
-    "roleDescription": " I'm currently on my last few weeks of a Full Stack Web Development Boot Camp at Penn. Before this I was, and still am, a nightlife DJ and events promoter. I really enjoy discovering new things and absorbing as much information as I possibly can and am always looking to expand my knowledge each and every day.",
+    "roleDescription": " I'm a Full-Stack Web Developer. I have an affinity for simple, clean design and straight-to-the point interface and functionality. On top of that I'm also a nightlife DJ, music producer, and events promoter.",
     "socialLinks":[
         {
           "name":"linkedin",
